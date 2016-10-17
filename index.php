@@ -19,6 +19,9 @@ and open the template in the editor.
          echo $arr[2];
          echo '<hr>';
         
+         echo $arr[1];
+         echo '<hr>';
+         echo '<hr>';
         ?>
     </body>
 </html>
