@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
          echo 'Hello Github James';
+        echo 'Hello Asahichirokano';
          echo '<hr>';
          
          $arr=['delphi','php','java','javacript'];
